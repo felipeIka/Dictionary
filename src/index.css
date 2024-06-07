@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "MODELICA";
+  src: url(../assets/fonts/Modelica.otf);
+}
+
+@font-face {
+  font-family: "MODELICA-BOLD";
+  src: url(../assets/fonts/Modelica-Bold.otf);
+}
+@font-face {
+  font-family: "MODELICA-LIGHT";
+  src: url(../assets/fonts/Modelica-Light.otf);
+}
+@font-face {
+  font-family: "MODELICA-ITALIC";
+  src: url(../assets/fonts/Modelica-Italic.otf);
+}
+
+
